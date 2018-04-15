@@ -8,6 +8,7 @@
     </types>
     <types>
         <members>TransObj1__c.field1__c</members>
+        <members>TransObj1__c.field3__c</members>
         <members>TranslationObj2__c.field12__c</members>
         <members>TranslationObj2__c.field1__c</members>
         <members>TranslationObj2__c.field3__c</members>

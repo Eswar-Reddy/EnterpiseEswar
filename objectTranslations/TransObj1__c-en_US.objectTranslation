@@ -12,5 +12,9 @@
         <label>test field1</label>
         <name>field1__c</name>
     </fields>
+    <fields>
+        <label>&lt;!-- field3 --&gt;</label>
+        <name>field3__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

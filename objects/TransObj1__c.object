@@ -61,6 +61,17 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>field3__c</fullName>
+        <description>f3</description>
+        <externalId>false</externalId>
+        <label>field3</label>
+        <length>23</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>TransObj1</label>
     <listViews>
         <fullName>All</fullName>
