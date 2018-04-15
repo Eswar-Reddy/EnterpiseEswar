@@ -9,6 +9,7 @@
     <types>
         <members>TranslationObj2__c.field12__c</members>
         <members>TranslationObj2__c.field1__c</members>
+        <members>TranslationObj2__c.field3__c</members>
         <members>Wellsfargo__c.Field_for_Testing__c</members>
         <members>Wellsfargo__c.Field_for_testing22__c</members>
         <members>Wellsfargo__c.Field_for_testing2345__c</members>
