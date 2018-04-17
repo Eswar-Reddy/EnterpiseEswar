@@ -7,6 +7,7 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>TransObj12__c.field12__c</members>
         <members>TransObj1__c.field1__c</members>
         <members>TransObj1__c.field3__c</members>
         <members>TranslationObj2__c.field12__c</members>
@@ -24,6 +25,7 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>TransObj12__c-en_US</members>
         <members>TransObj1__c-en_US</members>
         <members>TranslationObj2__c-en_US</members>
         <members>Wellsfargo__c-en_US</members>
