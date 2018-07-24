@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>41.0</version>
+    <types>
+        <members>PicklistTest1__c.FormulaField2__c</members>
+        <members>PicklistTest1__c.FormulaField33__c</members>
+        <members>PicklistTest1__c.PTLookupFiled1__c</members>
+        <members>PicklistTest1__c.StatesInfoFormula__c</members>
+        <members>PicklistTest1__c.StatesInfo__c</members>
+        <members>PicklistTest1__c.country__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>PicklistTest1__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
+</Package>
